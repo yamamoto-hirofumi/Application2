@@ -76,3 +76,7 @@ gem 'rubocop-airbnb'
 # group :production do
 #   gem 'mysql2'
 # end
+
+group :production do
+  gem 'pg', '0.20.0'
+end
