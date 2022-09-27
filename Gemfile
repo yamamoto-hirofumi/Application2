@@ -82,6 +82,6 @@ group :production do
   gem 'pg', '0.20.0'
 end
 
-gem 'net-imap'
-gem 'net-pop'
-gem 'net-smtp'
+# gem 'net-imap'
+# gem 'net-pop'
+# gem 'net-smtp'
