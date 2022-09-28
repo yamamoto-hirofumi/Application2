@@ -85,4 +85,4 @@ end
 # gem 'net-imap'
 # gem 'net-pop'
 # gem 'net-smtp'
-gem 'pg', '>= 0.18', '< 2.0'
+# gem 'pg', '>= 0.18', '< 2.0'
